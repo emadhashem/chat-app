@@ -1,14 +1,39 @@
-Description:
-    Chatapp is app for make a conversations between shared users
-___________________________________________________________________________
-Features: 
-    make make a conversations with any user in the app
-___________________________________________________________________________
-Getting Started :
-    1- clone the repo 
-    2- insert in cmd or shell (npm install)
-    3- npm start or (expo start)
+Description:<br/>
+    Chatapp is app for make a conversations between shared users and in the backend using firebase
+___________________________________________________________________________ <br/>
+Features: <br/>
+    make make a conversations with any user in the app with noti and upload profile image
+___________________________________________________________________________ <br/>
+Getting Started :<br/>
+    1- clone the repo <br/>
+    2- insert in cmd or shell (npm install)<br/>
+    3- npm start or (expo start)<br/>
 
-___________________________________________________________________________
+___________________________________________________________________________ <br/>
 Screenshots:
-    
+    <br/>
+    ![](images/signup.png)
+    <br/>
+    ![](images/sigupdone.png)
+    <br/>
+    ![](images/login.png)
+    <br/>
+    ![](images/forgetpass.png)
+    <br/>
+    ![](images/side.png)
+     <br/>
+    ![](images/text1.png)
+    <br/>
+    ![](images/text2.png)
+    <br/>
+    ________________________________________________________________________ <br/>
+    Libraries:<br/>
+        1- <a href="https://react-native-elements.github.io/react-native-elements/">React native-elements</a><br/>
+        2- <a href="https://redux.js.org/">Redux</a><br/>
+            .redux <br/>
+            .react-redux<br/>
+            .thunk<br/>
+        3- <a href="https://reactnavigation.org/">React Navigation</a><br/>
+    ________________________________________________________________________ <br/>
+    Developer : <br/>
+        emad hashem<br/>
