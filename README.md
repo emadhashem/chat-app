@@ -3,7 +3,7 @@ Description:<br/>
 ___________________________________________________________________________ <br/>
 Features: <br/>
     make make a conversations with any user in the app with (push and send) notifications and upload profile image.
-    (android - ios) os
+    (android - ios) os <br/>
 ___________________________________________________________________________ <br/>
 Getting Started :<br/>
     1- clone the repo <br/>
