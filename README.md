@@ -2,7 +2,8 @@ Description:<br/>
     Chatapp is app for make a conversations between shared users and in the backend using firebase
 ___________________________________________________________________________ <br/>
 Features: <br/>
-    make make a conversations with any user in the app with (push and send) notifications and upload profile image in (android - ios) os
+    make make a conversations with any user in the app with (push and send) notifications and upload profile image.
+    (android - ios) os
 ___________________________________________________________________________ <br/>
 Getting Started :<br/>
     1- clone the repo <br/>
