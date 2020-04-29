@@ -1,5 +1,5 @@
 Description:<br/>
-    Chatapp is app for make a conversations between shared users and in the backend using firebase
+    Chatapp is app for make a conversations between shared users and in the backend using <a href= "https://console.firebase.google.com">firebase</a>(firestore - storage - Authentication) <br/>
 ___________________________________________________________________________ <br/>
 Features: <br/>
     make make a conversations with any user in the app with (push and send) notifications and upload profile image.
